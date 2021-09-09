@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Preview
 <div align="center">
-  <img src="https://im5.ezgif.com/tmp/ezgif-5-f540c38d3d41.gif">
+  <img src="https://im5.ezgif.com/tmp/ezgif-5-462e638b3a78.gif">
 </div>
 
 ## Contact me
