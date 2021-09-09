@@ -4,9 +4,7 @@ A new Flutter project.
 
 ## Preview
 <div align="center">
-  <video controls>
-    <source src="/preview/demo.mp4" type="video/mp4">
-  </video>
+  <img src="https://im5.ezgif.com/tmp/ezgif-5-462e638b3a78.gif">
 </div>
 
 ## Contact me
