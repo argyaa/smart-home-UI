@@ -2,12 +2,12 @@
 
 A new Flutter project.
 
-## Prevuew
-<p align="center">
+## Preview
+<div align="center">
   <video controls>
     <source src="/preview/demo.mp4" type="video/mp4">
   </video>
-</p>
+</div>
 
 ## Contact me
 - Gmail: <a href="mailto:argyaauliaf@gmail.com">argyaauliaf@gmail.com</a>
